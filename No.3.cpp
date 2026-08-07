@@ -1,3 +1,4 @@
+//https://leetcode.cn/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-100-liked
 #include<iostream>
 #include<unordered_set>
 #include<vector>
